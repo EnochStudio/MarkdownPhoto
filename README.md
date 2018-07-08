@@ -25,7 +25,7 @@ github 图片链接格式：
 
 示例：
 
-![image](http://github.com/EnochStudio/MarkdownPhoto/raw/master/songzuer-010.jpg)
+![image](https://raw.githubusercontent.com/EnochStudio/MarkdownPhoto/master/songzuer-010.jpg)
 
 或者点开文件，会显示出你上传的图片，复制网页最上方的网页地址
 ![image](https://github.com/EnochStudio/MarkdownPhoto/blob/master/songzuer-010.jpg)
